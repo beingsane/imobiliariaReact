@@ -1,0 +1,32 @@
+li.imovel-item {
+  background: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.thumb-content {
+  padding: 20px 0px;
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+}
+
+.thumb-content strong {
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.botao-thumb {
+  background-color: blue;
+  border-radius: 50px;
+  font-size: 18px;
+  color: #fff;
+  padding: 10px;
+  margin: 0 20%;
+  border: 2px solid white;
+  margin-top: 10px;
+}
+
+li.imovel-item img {
+  width: 100%;
+  height: 100%;
+}
